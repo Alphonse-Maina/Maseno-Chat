@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282174447062",
+    "project_id": "msn-chat-app-46b42",
+    "storage_bucket": "msn-chat-app-46b42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282174447062:android:b0c0f55f83667c70c3d877",
+        "android_client_info": {
+          "package_name": "com.example.msn_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC1kJIEX2-lSf_RGt8-z9LbAh_4bjjD_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
