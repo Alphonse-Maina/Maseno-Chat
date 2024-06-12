@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846907332518",
+    "project_id": "masenochat",
+    "storage_bucket": "masenochat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846907332518:android:9df4af9d4ab44ffc75e167",
+        "android_client_info": {
+          "package_name": "com.example.masenochat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI1E1f88LEBmabGgsNp9vn4tUttgGVOFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
